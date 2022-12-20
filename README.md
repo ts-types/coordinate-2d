@@ -14,5 +14,5 @@ const myHouseNumber: DeepPartial<Employee> = { address: { number: 52 } };
 
 ## Installation
 
-Just a quick `npm install --save-dev @fs-types/deep-partial`, or the Yarn
+Just a quick `npm install --save-dev @fs-types/coordinate-2d`, or the Yarn
 equivalent.
