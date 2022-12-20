@@ -8,5 +8,5 @@ const coordinate: Coordinate = { x: 12, y: -7 };
 
 ## Installation
 
-Just a quick `npm install --save-dev @fs-types/coordinate-2d`, or the Yarn
+Just a quick `npm install --save-dev @ts-types/coordinate-2d`, or the Yarn
 equivalent.

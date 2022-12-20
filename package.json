@@ -1,6 +1,6 @@
 {
   "name": "@ts-types/coordinate-2d",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Support 2D coordinate type on typescript",
   "main": "src/index.ts",
   "keywords": [
