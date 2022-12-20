@@ -1,0 +1,31 @@
+{
+  "name": "@ts-types/coordinate-2d",
+  "version": "0.0.1",
+  "description": "Support 2D coordinate type on typescript",
+  "main": "src/index.ts",
+  "keywords": [
+    "typescript",
+    "coordinate",
+    "generics",
+    "types",
+    "typescript types",
+    "coordinate types",
+    "2D coordinate types",
+    "2D coordinate"
+  ],
+  "author": "John Martin <john.itvn@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ts-types/coordinate-2d.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "ts-node ./test/spec.ts"
+  },
+  "types": "src/index.d.ts",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.1.5"
+  }
+}
