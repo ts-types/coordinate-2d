@@ -1,4 +1,4 @@
-# deep-partial
+# coordinate-2d
 
 Coordinate data type for TypeScript. For example:
 
